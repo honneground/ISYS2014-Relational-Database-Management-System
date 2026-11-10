@@ -1,4 +1,4 @@
-# Women's World Cup Database and Management Interface
+﻿# Women's World Cup Database and Management Interface
 
 - **Unit**: Database Systems (`ISYS2014`)
 - **Study Period**: 2023 Trimester 3A
@@ -6,6 +6,63 @@
 - **Overall Unit Mark**: 80 (High Distinction)
 
 SQL-based cleaning and import for FootyStats national-team datasets, demonstrated with the 2019 and 2023 Women's World Cups. The project combines a relational database, analytical SQL, stored procedures and trigger demonstrations with a Python management interface.
+
+<table>
+  <thead>
+    <tr>
+      <th colspan="6">Curtin University &bull; Bachelor of Information Technology (Awarded with Distinction &bull; CWA 82.19)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr align="center" style="font-weight: bold; background-color: #f6f8fa;">
+      <td>2022 T3A</td>
+      <td>2023 T1A</td>
+      <td>2023 T2A</td>
+      <td>2023 T3A</td>
+      <td>2024 T1A</td>
+      <td>2024 T2A</td>
+    </tr>
+    <tr>
+      <td valign="top">
+        <abbr title="Fundamentals of Programming (92 HD)"><b>COMP1005</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/COMP1005-Vampire-Ecosystem-Simulation">Vampire Eco</a><br>        &bull; <a href="https://github.com/honneground/COMP1005-Vehicle-Emissions-Analyzer">Emissions</a><br>        <abbr title="Computer Systems (83 HD)"><font color="#8c959f">COMP2000</font></abbr><br>
+        <abbr title="Linear Algebra and Statistics for Engineers (71 D)"><font color="#8c959f">MATH1015</font></abbr><br>
+        <abbr title="Fundamental Concepts of Data Security (73 D)"><font color="#8c959f">ISEC2001</font></abbr>
+      </td>
+      <td valign="top">
+        <abbr title="Data Structures and Algorithms (89 HD)"><b>COMP1002</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/COMP1002-StudyHelp-Academic-Network">StudyHelp</a><br>        &bull; <a href="https://github.com/honneground/COMP1002-Advanced-Data-Structures-and-Visualizer">Visualizer</a><br>        <abbr title="Unix and C Programming (90 HD)"><b>COMP1000</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/COMP1000-Terminal-Maze-Survival-Game">Maze Survival</a><br>        &bull; <a href="https://github.com/honneground/COMP1000-Terminal-Maze-Darkness-Game">Maze Darkness</a><br>        &bull; <a href="https://github.com/honneground/COMP1000-Bookstore-Transaction-Simulator">Bookstore</a><br>        <abbr title="Introduction to Software Engineering (95 HD)"><b>ISAD1000</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/ISAD1000-Software-Testing-and-Pocket-Beast-Game">Pocket Beast</a><br>        <abbr title="Integrating Indigenous Science and STEM (73 D)"><font color="#8c959f">NPSC1003</font></abbr>
+      </td>
+      <td valign="top">
+        <abbr title="Unix Systems Programming (88 HD)"><b>COMP2002</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/COMP2002-Parallel-Directory-File-Calculator">Dir Calculator</a><br>        <abbr title="Operating Systems (80 HD)"><b>COMP2006</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/COMP2006-Customer-Queue-Concurrency-Simulation">Queue Sim</a><br>        <abbr title="Computer Communications (75 D)"><font color="#8c959f">CNCO2000</font></abbr><br>
+        <abbr title="Mobile Cloud Computing (79 D)"><font color="#8c959f">CNCO3003</font></abbr>
+      </td>
+      <td valign="top" style="background-color: #f1f8ff; border: 2px solid #0969da;">
+        <abbr title="Database Systems (80 HD)"><b>ISYS2014</b></abbr><br>
+        &bull; <b>&#128073; FootyStats DB</b><br>        <abbr title="Quantitative Techniques for Business (87 HD)"><b>ECOM2001</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/ECOM2001-Econometric-Statistical-Analysis-R">Econometric R</a><br>        <abbr title="Managing Social Media Platforms (69 C)"><font color="#8c959f">MKTG2006</font></abbr><br>
+        <abbr title="Computing Topics (61 C)"><font color="#8c959f">COMP2005</font></abbr>
+      </td>
+      <td valign="top">
+        <abbr title="Financial Decision Making (93 HD)"><b>ACCT1002</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/ACCT1002-Financial-Decision-Calculators">Finance Tools</a><br>        <abbr title="Human Computer Interface (71 D)"><b>ICTE3002</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/ICTE3002-Lumen-Interaction-Design">Lumen UI</a><br>        <abbr title="Engineering Management and Professional Practice (79 D)"><b>MGMT3000</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/MGMT3000-Phone-Router-Repurposing-Design">Phone Router</a><br>        <abbr title="Distributed Networks (83 HD)"><font color="#8c959f">CNCO3000</font></abbr>
+      </td>
+      <td valign="top">
+        <abbr title="Capstone Computing Project 1 (94 HD)"><b>ISAD3000</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/ISAD3000-CurtinSG-App-Design">CurtinSG UI</a><br>        <abbr title="Capstone Computing Project 2 (95 HD)"><b>ISAD3001</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/ISAD3001-CurtinSG-Student-App">CurtinSG App</a><br>        <abbr title="Advanced Computer Communications (88 HD)"><b>CNCO3002</b></abbr><br>
+        &bull; <a href="https://github.com/honneground/CNCO3002-Multi-Service-Socket-Server">Socket Server</a><br>        <abbr title="Accounting - The Fundamentals of Business (93 HD)"><font color="#8c959f">ACCT2013</font></abbr>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Assignment context and constraints
 
@@ -114,3 +171,10 @@ python3 main.py
 ```
 
 Follow the username and password prompts, then choose `2023`, `2019` or a database name. Leaving the password prompt empty uses `MYSQL_PASSWORD` if set; entering `blank` requests an empty password. Use the menu's **Commit Changes** command to save edits or **Discard Changes** to roll them back.
+
+---
+
+## Portfolio note
+
+This Git repository was created retrospectively from the original project code, with assistance from OpenAI Codex and Antigravity in curating the repository and writing this README for publication. The initial commit timestamp is backdated to the original coursework submission date, followed by the final release commit.
+
